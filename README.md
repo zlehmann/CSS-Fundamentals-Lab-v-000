@@ -79,11 +79,11 @@ the browser.
 
 - **Center our image**: We only have one image on the page and we would like it centered! 
 
-- **Jazz up our navigation links**: Give all of the `<a>` tags within our navbar a padding of 10px on their left and right sides. In addition, change their background color to something of your choosing. We chose grey!
+- **Jazz up our navigation links**: Let's center all of our nav links as well. Give all of the `<a>` tags within our navbar a padding of 10px on their left and right sides. In addition, change their background color to something of your choosing. We chose grey!
 
 - **Our image caption needs work**: Let's shrink that font size down and make sure it is centered.
 
-- **Update the text block**: Wouldn't it look nicer if our text was centered as well? Our image is about 900px wide, so let's give our `<p>` within `#featured-property` a hard width of 800px and center the text in there.
+- **Update the text block**: Wouldn't it look nicer if our text was centered as well? Our image is about 900px wide, so let's give all our `<p>` within `#featured-property` a hard width of 800px and center the text in there.
 
 - **Make our `#details` section horizontal**: The details section could go nicely as a footer to the page, instead of a vertical list. Change its `display` value to block and make sure each of the `<div>`s is `float`ing to the `left`.
 
